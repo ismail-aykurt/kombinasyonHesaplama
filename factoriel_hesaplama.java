@@ -1,3 +1,4 @@
+//www.patika.dev
 import java.util.Scanner;
 /*
 N elemanlı bir kümenin elemanları ile oluşturulacak r elemanlı farklı grupların sayısı n’in r’li kombinasyonu olarak adlandırılır.
